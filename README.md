@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yusbash03 AKA Yusuf M. Bashir
-- 👀 I’m a Full Stack developer with over 5 years of work experience. I use stacks like C# and NodeJs for my backend APIs and angular and reactjs for my frontend
+- 👀 I’m a Full Stack developer with over 5 years of work experience. I use stacks like C#(.Net core) and NodeJs(Js) for my backend APIs and angular and reactjs for my frontend
 - 🌱 I’m always interested in learning new and trending frameworks in order to improve myself. I am Google Ads Search and Digital Skills certified, 
 - 💞️ I’m looking to collaborate on a challenging projects with either skilled or non skilled personell in the programming world. I believe we can all learn from each other.
 - 📫 How to reach me: Email:ybyusbash@gmail.com or Twitter:@weirdDeveloper
